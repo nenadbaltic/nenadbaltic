@@ -3,7 +3,7 @@
 
 <br/>
 
-🌱 I’m currently learning **NextJS 13**
+🌱 I’m currently learning **NextJS 14**
 
 📫 How to reach me baltic.nenad@gmail.com 
 
